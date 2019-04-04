@@ -8,3 +8,4 @@
 - Update documentation style (2019-11-1 15:15:00)
 - Refactor variable names (2019-1-9 12:25:00)
 - Improve logging verbosity (2019-5-7 14:35:00)
+- Patch security vulnerability (2019-4-4 15:45:00)
