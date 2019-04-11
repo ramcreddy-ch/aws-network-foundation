@@ -20,3 +20,5 @@
 
 - Code cleanup (2019-2-4 9:17:00)
 
+- Optimizations (2019-4-11 13:24:00)
+
