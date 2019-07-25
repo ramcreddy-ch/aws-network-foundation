@@ -30,3 +30,5 @@
 
 - Security checks (2019-7-20 11:44:00)
 
+- Config update (2019-7-25 12:31:00)
+
